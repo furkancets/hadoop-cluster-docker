@@ -37,6 +37,7 @@ For skipping trash `-skipTrash`
 ## 12. User Interface of namenode 
 http://localhost:9870/
 
+yarn jar /opt/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-examples-3.3.6.jar pi 10 15
 
 ### 1. Prepare for Map-Reduce job (linux)
 - Create a folder for jar and fruit file
